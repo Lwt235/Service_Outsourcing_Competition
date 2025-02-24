@@ -1,7 +1,7 @@
-package com.nasoril.backend.service;
+package com.competition.backend.service;
 
 
-import com.nasoril.backend.pojo.User;
+import com.competition.backend.pojo.User;
 
 public interface UserService {
     User findByUserName(String username);

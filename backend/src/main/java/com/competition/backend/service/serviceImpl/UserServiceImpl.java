@@ -1,9 +1,9 @@
-package com.nasoril.backend.service.serviceImpl;
+package com.competition.backend.service.serviceImpl;
 
 
-import com.nasoril.backend.mapper.UserMapper;
-import com.nasoril.backend.pojo.User;
-import com.nasoril.backend.service.UserService;
+import com.competition.backend.mapper.UserMapper;
+import com.competition.backend.pojo.User;
+import com.competition.backend.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

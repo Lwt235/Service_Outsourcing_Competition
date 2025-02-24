@@ -1,4 +1,4 @@
-package com.nasoril.backend.pojo;
+package com.competition.backend.pojo;
 
 public class Result<T> {
     private Integer code;

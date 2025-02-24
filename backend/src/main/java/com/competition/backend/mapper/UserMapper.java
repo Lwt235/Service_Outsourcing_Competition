@@ -1,7 +1,7 @@
-package com.nasoril.backend.mapper;
+package com.competition.backend.mapper;
 
 
-import com.nasoril.backend.pojo.User;
+import com.competition.backend.pojo.User;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;

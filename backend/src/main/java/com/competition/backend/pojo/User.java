@@ -1,4 +1,4 @@
-package com.nasoril.backend.pojo;
+package com.competition.backend.pojo;
 
 import lombok.Data;
 import org.springframework.context.annotation.Bean;

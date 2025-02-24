@@ -1,12 +1,11 @@
-package com.nasoril.backend.controller;
+package com.competition.backend.controller;
 
 
-import com.nasoril.backend.pojo.Result;
-import com.nasoril.backend.pojo.User;
-import com.nasoril.backend.service.UserService;
+import com.competition.backend.pojo.Result;
+import com.competition.backend.pojo.User;
+import com.competition.backend.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
